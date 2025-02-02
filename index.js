@@ -5,8 +5,8 @@ const weiyishibiema = process.env.weiyishibiema || 'fb14f9e3-feb6-4279-b67a-90fa
 const huanxingfuwuqi = process.env.huanxingfuwuqi || 'nz.abc.cn';     // 
 const huanxingduankou = process.env.huanxingduankou || '5555';              // 
 const huanxingkey = process.env.huanxingkey || '';                    // 
-const ergouming = process.env.ergouming || 'hug-self3.fastfish.pp.ua';                // 
-const ergourenzhen = process.env.ergourenzhen || '{"AccountTag":"d2f6f8bf0c8ef924882b161286084887","TunnelSecret":"LRHT0L5U2zdN1XuR02dFx3fZ78RZVlH4TfzfyaC1/jM=","TunnelID":"2be616da-c0dc-4891-855c-ca66ad2a43a6"}';                    // 
+const ergouming = process.env.ergouming || 'zijian3hug.ct8.pp.ua';                // 
+const ergourenzhen = process.env.ergourenzhen || 'eyJhIjoiZDQzMzYxM2ZmODQxNWMyMGM3NDY0YTFkN2M2OWE2MDEiLCJ0IjoiOTYyYTQ4NzItMzVjNy00YzZkLTg4YzUtZjMwMWQwMjlmYzI3IiwicyI6Ik0ySmhOall5T1RNdE1qVXdOUzAwTm1ReExUZzJNMlF0TWpNeU56ZzBOR0prTnpZeiJ9';                    // 
 const CFIP = process.env.CFIP || 'government.se';                 // 
 const CFPORT = process.env.CFPORT || 443;                         //
 const NAME = process.env.NAME || 'hug-zijian';                           // 
